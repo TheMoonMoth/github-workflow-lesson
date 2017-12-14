@@ -1,5 +1,5 @@
 body {
-  background-color: purple;
+  background-color: yellow;
 }
 
 h1 {
@@ -7,7 +7,7 @@ h1 {
 }
 
 p {
-  font-size: 30px;
+  font-size: 60px;
 }
 
 div {
@@ -17,5 +17,5 @@ div {
 }
 
 h2 {
-  color: green;
+  color: turquoise;
 }
